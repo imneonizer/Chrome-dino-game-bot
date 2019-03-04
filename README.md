@@ -19,8 +19,8 @@ so, Here we go.
 open up start menu if you are a windows user and search for cmd.exe
 a terminal will be opened up just write below lines of codes to install required libraries.
 
->> pip install pyautogui
->> pip install pillow
+pip install pyautogui
+pip install pillow
 
 so that wass it now we can go ahead to follow next steps.
 
