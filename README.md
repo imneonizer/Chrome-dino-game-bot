@@ -1,7 +1,7 @@
 # Chrome-dino-game-bot
-A python bot that plays Google Chrome's T-rex game
+A python bot that plays Google Chrome's T-rex game.
 Hello folks!
-This is an small tutorial on python native libraries to make a smiple Chrome's Famous Dino / T-Rex Game Bot
+This is an small tutorial on python native libraries to make a smiple Chrome's Famous Dino / T-Rex Game Bot.
 
 Follow along the tutorial to make your own game bot in just matter of minutes.
 
