@@ -22,7 +22,7 @@ a terminal will be opened up just write below lines of codes to install required
 1. pip install pyautogui
 2. pip install pillow
 
-so that wass it now we can go ahead to follow next steps.
+so that was it, now we can go ahead to follow next steps.
 
 Step 3: Getting hands on
 
