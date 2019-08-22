@@ -45,15 +45,15 @@ there are other variables also with the name of pixel_plant which are the coordi
 
 > Screenshot
 >
-> ![]('Screenshots/Raw screenshot.png')
+> ![](Screenshots/Raw_screenshot.png)
 
 
 
 > Bounding Box Drawn With MS Paint
 >
-> ![]('Screenshots/Bbox points.png')
+> ![](Screenshots/Bbox_points.png)
 >
 > Plant
 >
-> ![]('Screenshots/bbox.png')
+> ![](Screenshots/bbox.png)
 
